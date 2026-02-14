@@ -28,3 +28,5 @@ type Payment struct {
 	id     int
 	Amount Money
 }
+
+type Category string
